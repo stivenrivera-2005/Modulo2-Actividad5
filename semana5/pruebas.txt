@@ -1,11 +1,11 @@
 http://localhost:3000
 
-sale servidor activo 
+Aparece: servidor activo 
 
 http://localhost:3000/saludo
 
-sale Hola comunidad
+Aparece: Hola comunidad
 
 http://localhost:3000/mensaje/juan
 
-sale Hola Juan
+Aparece: Hola Juan
