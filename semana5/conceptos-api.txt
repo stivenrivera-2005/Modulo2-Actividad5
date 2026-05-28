@@ -1,0 +1,4 @@
+esta ruta envia y recibe mensajes con su valor y estado
+
+la ruta solo confirma la recepcion del mensajepara que sea vea util en la aplicacion real lo logico 
+seria guardar el mensaje en una base de datos
